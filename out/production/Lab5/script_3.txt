@@ -1,0 +1,8 @@
+add
+newCar
+30
+30
+30
+30
+boat
+plasma

@@ -1,0 +1,8 @@
+add
+scriptCar
+0
+0
+1000
+1000
+BOAT
+GASOLINE
